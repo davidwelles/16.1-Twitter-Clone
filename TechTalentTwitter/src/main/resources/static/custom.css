@@ -1,0 +1,36 @@
+a.username {
+    color: #00aced
+}
+
+a.tag {
+    color: #0084b4
+}
+body{
+ background: url(/images/quack.jpg);
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position: center;
+  background-attachment: fixed;
+
+
+}
+form{
+max-width: 250px;
+margin-left: 30Px;
+
+}
+h2{
+margin-left:30px;
+margin-top:50px;
+}
+.jumbotron{
+background: none;
+}
+
+.list-group{
+max-width: 400px;
+margin-left: 30px;
+}
+.quacks{
+margin-left: 50px;
+}
